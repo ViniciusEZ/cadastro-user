@@ -1,5 +1,4 @@
 from database_user.db import DataBase
-from database_user.validacpf import valida_cpf
 
 user = DataBase('usuario.db')
 
